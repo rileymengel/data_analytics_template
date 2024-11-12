@@ -1,2 +1,10 @@
 # data_analytics_template
-HNL Homework 5 
+# Homework 5 - November 17th
+
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
