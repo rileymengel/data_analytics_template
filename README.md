@@ -30,3 +30,5 @@ By combining retail sales figures with consumer sentiment scores, we can observe
 | `Sales`         | Numeric    | Monthly sales figures in USD                                     |
 | `Sentiment Index` | Numeric   | Consumer sentiment score                                        |
 | `Economic Phase` | Text       | Economic classification as "Expansion," "Recession," or "Stable" |
+
+## Subfolder Name: Data Storage 
