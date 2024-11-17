@@ -35,5 +35,5 @@ This folder contains scripts and datasets for the analysis phase of the project.
 - [ ] Add visualizations to `eda.ipynb`.
 - [ ] Refactor `preprocessing.py` for scalability.
 - [ ] Document new variables in the data dictionary.
-- [] Pull changes and create changes in the data dictionary.
+
 
